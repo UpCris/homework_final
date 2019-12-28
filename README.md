@@ -34,7 +34,15 @@ Nebula Graph 是一个分布式的可扩展的高性能的图数据库。
 
 Nebula Graph 可以容纳百亿节点和万亿条边，并达到毫秒级的时延.
 
-更多关于*[Nebula Graph](https://github.com/vesoft-inc/nebula)的内容
+更多关于[Nebula Graph](https://github.com/vesoft-inc/nebula)的内容
+
+- 项目需求：
+
+1. 熟悉linux环境，灵活运用linux命令。
+1. 熟悉github开源及相关基本操作。
+1. 运用C++面向对象编程设计知识完善、改进nebula项目。
+
+- 项目内容：
 
 
 
