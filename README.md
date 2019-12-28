@@ -7,21 +7,19 @@
 
 ---
 
-* 1 [项目简介](#markdown-toc)
-  * 1.1 [项目背景](#变更日志)
-  * 1.2 [](#features)
-* 2 [环境依赖 ](#环境依赖)
-  * 2.1 [JDK](#jdk)
-  * 2.2 [Maven](#maven)
-* 3 [快速入门](#快速入门)
-  * 3.1 [maven 引入](#maven-引入)
-  * 3.2 [md 文件](#md-文件)
-  * 3.3 [快速开始](#快速开始)
-* 4 [属性配置](#属性配置)
-  * 4.1 [属性说明](#属性说明)
-  * 4.2 [返回值说明](#返回值说明)
-* 5 [测试案例](#测试案例)
-* 6 [其他](#其他)
+* 1 [项目简介](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
+  * 1.1 [项目背景](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
+  * 1.2 [项目需求](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82)
+  * 1.3[环境依赖](https://github.com/UpCris/homework_final/blob/master/README.md#%E7%8E%AF%E5%A2%83%E4%BE%9D%E8%B5%96)
+* 2 [项目内容 ](https://github.com/UpCris/homework_final/blob/master/README.md#%E7%8E%AF%E5%A2%83%E4%BE%9D%E8%B5%96)
+  * 2.1[测试案例](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B)
+  * 2.2[功能添加](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0)
+  * 2.3[测试效果](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%B5%8B%E8%AF%95%E6%95%88%E6%9E%9C)
+* 3 [遇到的问题及建议](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
+* 4 [心得体会](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A)
+  * 4.1 [收获](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%94%B6%E8%8E%B7)
+  * 4.2 [备注](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%A4%87%E6%B3%A8)
+* 5 [其他](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%85%B6%E4%BB%96)
 ---
 
 ---
@@ -50,7 +48,7 @@
 1. 熟悉github开源及相关基本操作。
 1. 运用C++面向对象编程设计知识完善、改进nebula项目。
 
-### 项目内容：
+### 环境依赖：
 
 1. 操作系统： Ubuntu 18.04
 
@@ -82,7 +80,13 @@ bash> git push
 
 [相关github学习](https://github.com/silverdays/github-lecture)的内容
 
-1. 源码修改位置：
+---
+
+## 项目内容：
+
+- [分支myfeature](https://github.com/UpCris/nebula/tree/myfeature)地址
+
+### 测试案例：
 
 > ~/nebula-master/src/common/network/test/NetworkUtilsTest.cpp
 
@@ -236,26 +240,81 @@ int main(int argc, char** argv) {
 
 ```
 
-- [git push](https://github.com/UpCris/nebula/tree/myfeature)地址
+### 功能添加
 
-## 结果分析
+1. 显示本地时间
 
-### 
+1. 计算各测试所需时间
 
+### 测试效果
 
+- 源码修改前编译结果：
 
+![](https://github.com/UpCris/homework_final/blob/master/original_test.png)
 
+- 源码修改后编译结果：
 
+![](https://github.com/UpCris/homework_final/blob/master/result_3.png)
 
+- git commit 结果：
 
+![git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
 
+- git push 结果：
 
+![git push](https://github.com/UpCris/homework_final/blob/master/push.png)
 
+---
 
+## 遇到的问题及建议
 
+1. 不理解**Nebula Graph**，开发缺少方向感。
 
+1. 缺乏C++面向对象编程的思维。
 
+1. 精通C++开发需要大量时间，建议不要在大二开课。
 
+---
 
+## 心得体会 
 
+### 收获
+
+1. 熟悉markdown语言及在github上交作业。
+
+- （学会运用和理解各类命令，如上所述git命令及linux命令）
+
+2. 作为一门大学本科课程极大地拓展了我的视野。
+
+3. 了解了开发者必备的基本操作及开源的含义。
+
+4. 学会了用`cpplint`检查代码规范性，长此以往对C++编程肯定有很大提升。
+
+5. github上各类资源都很多，给了我一个很好的学习交流平台。
+
+6. 很欣慰的一点，其实比较前后4次作业就能清楚看到我是有进步的。
+
+### 备注
+
+- 鉴于这类的request应该有很多了，我就不pull上去打扰大家了。
+
+- 总而言之真心感谢老师一学期以来的指导,我还是很开心的，毕竟能在很多同学那边吹一吹了♪(^∇^*)。
+
+- 希望老师能一直坚持自己的风格，不被其他老师带歪。
+
+## 其他
+
+> 仅供参考(一学期以来搜集的学习资料)
+
+[C++面向对象编程讲义](https://github.com/UpCris/Cpp-0-1-Resource)
+
+[C++ Primer 习题集答案](https://blog.csdn.net/qq_29762941/article/details/82658064)
+
+[github入门](https://github.com/UpCris/github-lecture)
+
+[markdown进阶](https://github.com/UpCris/markdown-toc)
+
+[Git的分支工作流与Pull Request](https://www.cnblogs.com/selimsong/p/9059964.html)
+
+[Ubuntu环境下上传项目到github](https://blog.csdn.net/ajianyingxiaoqinghan/article/details/70544159)
 
