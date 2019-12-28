@@ -30,9 +30,17 @@
 
 - 项目背景：
 
-Nebula Graph 是一个分布式的可扩展的高性能的图数据库。
+**Nebula Graph** 是一款开源的图数据库，擅长处理千亿个顶点和万亿条边的超大规模数据集。
 
-Nebula Graph 可以容纳百亿节点和万亿条边，并达到毫秒级的时延.
+与其他图数据库产品相比，**Nebula Graph** 具有如下优势：
+
+   - 全对称分布式架构
+   - 存储与计算分离
+   - 水平可扩展性
+   - RAFT 协议下的数据强一致
+   - 类 SQL 查询语言
+   - 用户鉴权
+
 
 更多关于[Nebula Graph](https://github.com/vesoft-inc/nebula)的内容
 
@@ -44,9 +52,35 @@ Nebula Graph 可以容纳百亿节点和万亿条边，并达到毫秒级的时�
 
 - 项目内容：
 
+1. 操作系统： **Ubuntu 18.04**
 
+1. 相关**linux**、**git**命令:
 
+```bash
+bash> cmake ..
+bash> make
+bash> sudo make install
+```
 
+```bash
+bash> git clone https://github.com/vesoft-inc/nebula.git
+bash> git init
+bash> git clone
+bash> git config
+bash> git add
+bash> git rm 
+bash> git mv 
+bash> git commit
+bash> git branch
+bash> git checkout
+bash> git log
+bash> git status
+bash> git diff
+bash> git pull
+bash> git push
+```
+
+[相关github学习](https://github.com/silverdays/github-lecture)的内容
 
 
 
