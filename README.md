@@ -256,9 +256,13 @@ int main(int argc, char** argv) {
 
 ![](https://github.com/UpCris/homework_final/blob/master/result_3.png)
 
-- ![git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
+- git commit 结果：
 
-- ![git push](https://github.com/UpCris/homework_final/blob/master/push.png)
+![git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
+
+- git push 结果：
+
+![git push](https://github.com/UpCris/homework_final/blob/master/push.png)
 
 ---
 
@@ -293,6 +297,8 @@ int main(int argc, char** argv) {
 - 鉴于这类的request应该有很多了，我就不pull上去打扰大家了。
 
 - 总而言之真心感谢老师一学期以来的指导,我还是很开心的，毕竟能在很多同学那边吹一吹了♪(^∇^*)。
+
+- 希望老师能一直坚持自己的风格，不被其他老师带歪。
 
 ## 其他
 
