@@ -241,6 +241,14 @@ int main(int argc, char** argv) {
 
 ```
 
+### 功能添加
+
+1. 显示本地时间
+
+1. 计算各测试所需时间
+
+### 测试效果
+
 - 源码修改前编译结果：
 
 ![](https://github.com/UpCris/homework_final/blob/master/original_test.png)
@@ -249,9 +257,9 @@ int main(int argc, char** argv) {
 
 ![](https://github.com/UpCris/homework_final/blob/master/result_3.png)
 
-- [git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
+- ![git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
 
-- [git push](https://github.com/UpCris/homework_final/blob/master/push.png)
+- ![git push](https://github.com/UpCris/homework_final/blob/master/push.png)
 
 ---
 
@@ -271,11 +279,17 @@ int main(int argc, char** argv) {
 
 1. 熟悉markdown语言及在github上交作业。
 
-1. 作为一门课程极大地拓展了我的视野。
+1. 作为一门大学本科课程极大地拓展了我的视野。
 
 1. 了解了开发者必备的基本操作。
 
+1. 学会了用`cpplint`检查代码规范性，对今后C++编程肯定有很大提升。
 
+### 备注
+
+- 鉴于这类的request应该有很多了，我就不pull request打扰大家了。
+
+- 总而言之感谢老师一学期以来的指导。
 
 
 
