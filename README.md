@@ -19,7 +19,7 @@
 * 4 [心得体会](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A)
   * 4.1 [收获](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%94%B6%E8%8E%B7)
   * 4.2 [备注](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%A4%87%E6%B3%A8)
-* 5 [其他]()
+* 5 [其他](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%85%B6%E4%BB%96)
 ---
 
 ---
@@ -278,13 +278,13 @@ int main(int argc, char** argv) {
 
 1. 熟悉markdown语言及在github上交作业。
 
-- （学会运用各类命令，如上所述git命令及linux命令）
+- （学会运用和理解各类命令，如上所述git命令及linux命令）
 
 1. 作为一门大学本科课程极大地拓展了我的视野。
 
 1. 了解了开发者必备的基本操作及开源的含义。
 
-1. 学会了用`cpplint`检查代码规范性，对今后C++编程肯定有很大提升。
+1. 学会了用`cpplint`检查代码规范性，长此以往对C++编程肯定有很大提升。
 
 1. github上各类资源都很多，给了我一个很好的学习交流平台。
 
@@ -292,7 +292,18 @@ int main(int argc, char** argv) {
 
 - 鉴于这类的request应该有很多了，我就不pull上去打扰大家了。
 
-- 总而言之真心感谢老师一学期以来的指导。
+- 总而言之真心感谢老师一学期以来的指导,我还是很开心的，毕竟能在很多同学那边吹一吹了♪(^∇^*)。
 
 ## 其他
+
+> 仅供参考(一学期以来搜集的学习资料)
+
+[C++面向对象编程讲义](https://github.com/UpCris/Cpp-0-1-Resource)
+
+[github入门](https://github.com/UpCris/github-lecture)
+
+[markdown进阶](https://github.com/UpCris/markdown-toc)
+
+[Git的分支工作流与Pull Request](https://www.cnblogs.com/selimsong/p/9059964.html)
+
 
