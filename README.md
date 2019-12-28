@@ -8,19 +8,18 @@
 ---
 
 * 1 [项目简介](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
-  * 1.1 [项目背景](#变更日志)
-  * 1.2 [项目需求](#features)
-* 2 [项目内容 ](#环境依赖)
-  * 2.1[结果分析]()
-* 3 [遇到的问题](#快速入门)
-  * 3.1 [maven 引入](#maven-引入)
-  * 3.2 [md 文件](#md-文件)
-  * 3.3 [快速开始](#快速开始)
-* 4 [心得体会](#属性配置)
-  * 4.1 [属性说明](#属性说明)
-  * 4.2 [返回值说明](#返回值说明)
-* 5 [测试案例](#测试案例)
-* 6 [其他](#其他)
+  * 1.1 [项目背景](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
+  * 1.2 [项目需求](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82)
+  * 1.3[环境依赖](https://github.com/UpCris/homework_final/blob/master/README.md#%E7%8E%AF%E5%A2%83%E4%BE%9D%E8%B5%96)
+* 2 [项目内容 ](https://github.com/UpCris/homework_final/blob/master/README.md#%E7%8E%AF%E5%A2%83%E4%BE%9D%E8%B5%96)
+  * 2.1[测试案例](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B)
+  * 2.2[功能添加](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0)
+  * 2.3[测试效果](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%B5%8B%E8%AF%95%E6%95%88%E6%9E%9C)
+* 3 [遇到的问题及建议](https://github.com/UpCris/homework_final/blob/master/README.md#%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
+* 4 [心得体会](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A)
+  * 4.1 [收获](https://github.com/UpCris/homework_final/blob/master/README.md#%E6%94%B6%E8%8E%B7)
+  * 4.2 [备注](https://github.com/UpCris/homework_final/blob/master/README.md#%E5%A4%87%E6%B3%A8)
+* 5 [其他]()
 ---
 
 ---
@@ -263,7 +262,7 @@ int main(int argc, char** argv) {
 
 ---
 
-## 遇到的问题
+## 遇到的问题及建议
 
 1. 不理解**Nebula Graph**，开发缺少方向感。
 
@@ -295,4 +294,5 @@ int main(int argc, char** argv) {
 
 - 总而言之真心感谢老师一学期以来的指导。
 
+## 其他
 
