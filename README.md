@@ -9,15 +9,14 @@
 
 * 1 [项目简介](#markdown-toc)
   * 1.1 [项目背景](#变更日志)
-  * 1.2 [](#features)
-* 2 [环境依赖 ](#环境依赖)
-  * 2.1 [JDK](#jdk)
-  * 2.2 [Maven](#maven)
-* 3 [快速入门](#快速入门)
+  * 1.2 [项目需求](#features)
+* 2 [项目内容 ](#环境依赖)
+  * 2.1[结果分析]()
+* 3 [遇到的问题](#快速入门)
   * 3.1 [maven 引入](#maven-引入)
   * 3.2 [md 文件](#md-文件)
   * 3.3 [快速开始](#快速开始)
-* 4 [属性配置](#属性配置)
+* 4 [心得体会](#属性配置)
   * 4.1 [属性说明](#属性说明)
   * 4.2 [返回值说明](#返回值说明)
 * 5 [测试案例](#测试案例)
@@ -50,7 +49,7 @@
 1. 熟悉github开源及相关基本操作。
 1. 运用C++面向对象编程设计知识完善、改进nebula项目。
 
-### 项目内容：
+### 环境依赖：
 
 1. 操作系统： Ubuntu 18.04
 
@@ -82,7 +81,13 @@ bash> git push
 
 [相关github学习](https://github.com/silverdays/github-lecture)的内容
 
-1. 源码修改位置：
+---
+
+## 项目内容：
+
+- [分支myfeature](https://github.com/UpCris/nebula/tree/myfeature)地址
+
+### 测试案例：
 
 > ~/nebula-master/src/common/network/test/NetworkUtilsTest.cpp
 
@@ -236,20 +241,39 @@ int main(int argc, char** argv) {
 
 ```
 
-## 结果分析
-
-- [分支myfeature](https://github.com/UpCris/nebula/tree/myfeature)地址
-
 - 源码修改前编译结果：
+
 ![](https://github.com/UpCris/homework_final/blob/master/original_test.png)
 
--源码修改后编译结果：
+- 源码修改后编译结果：
+
 ![](https://github.com/UpCris/homework_final/blob/master/result_3.png)
 
--[git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
+- [git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
 
--[git push](https://github.com/UpCris/homework_final/blob/master/push.png)
+- [git push](https://github.com/UpCris/homework_final/blob/master/push.png)
 
+---
+
+## 遇到的问题
+
+1. 不理解**Nebula Graph**，开发缺少方向感。
+
+1. 缺乏C++面向对象编程的思维。
+
+1. 精通C++开发需要大量时间，建议不要在大二开课。
+
+---
+
+## 心得体会 
+
+### 收获
+
+1. 熟悉markdown语言及在github上交作业。
+
+1. 作为一门课程极大地拓展了我的视野。
+
+1. 了解了开发者必备的基本操作。
 
 
 
