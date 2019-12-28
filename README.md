@@ -300,6 +300,8 @@ int main(int argc, char** argv) {
 
 [C++面向对象编程讲义](https://github.com/UpCris/Cpp-0-1-Resource)
 
+[C++ Primer 习题集答案](https://blog.csdn.net/qq_29762941/article/details/82658064)
+
 [github入门](https://github.com/UpCris/github-lecture)
 
 [markdown进阶](https://github.com/UpCris/markdown-toc)
@@ -307,3 +309,4 @@ int main(int argc, char** argv) {
 [Git的分支工作流与Pull Request](https://www.cnblogs.com/selimsong/p/9059964.html)
 
 [Ubuntu环境下上传项目到github](https://blog.csdn.net/ajianyingxiaoqinghan/article/details/70544159)
+
