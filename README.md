@@ -236,13 +236,19 @@ int main(int argc, char** argv) {
 
 ```
 
-- [git push](https://github.com/UpCris/nebula/tree/myfeature)地址
-
 ## 结果分析
 
-### 
+- [分支myfeature](https://github.com/UpCris/nebula/tree/myfeature)地址
 
+- 源码修改前编译结果：
+![](https://github.com/UpCris/homework_final/blob/master/original_test.png)
 
+-源码修改后编译结果：
+![](https://github.com/UpCris/homework_final/blob/master/result_3.png)
+
+-[git commit](https://github.com/UpCris/homework_final/blob/master/commit.png)
+
+-[git push](https://github.com/UpCris/homework_final/blob/master/push.png)
 
 
 
